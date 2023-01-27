@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=branwith&label=Profile%20views&color=0e75b6&style=flat" alt="branwith" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=branwith" alt="branwith" /></a> </p>
-
+<p>
 - 🔭 I’m currently working on [MANHAJ CHELEMBRA](https://github.com/branwith/MRIC-CHELEMBRA)
 
 - 🌱 I’m currently learning **React**
@@ -15,7 +15,7 @@
 - 💬 Ask me about **HTML, CSS, ADOBE, MICROSOFT OFFICE**
 
 - 📫 How to reach me **branwithadvertising@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/branwith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/branwith/" height="30" width="40" /></a>
