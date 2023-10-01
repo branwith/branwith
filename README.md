@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=branwith" alt="branwith" /></a> </p>
 
-- 🔭 I’m currently working on [MANHAJ CHELEMBRA](https://github.com/branwith/modern-advertising)
+- 🔭 I’m currently working on [ARTICLE FEST](https://github.com/branwith/article)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://branwith.me/](https://branwith.me/)
+- 👨‍💻 All of my projects are available at [https://branzle.com/](https://branzle.com/)
 
 - 💬 Ask me about **HTML, CSS, ADOBE, MICROSOFT OFFICE**
 
-- 📫 How to reach me **branwithadvertising@gmail.com**
+- 📫 How to reach me **connect@branzle.com**
 
 - ⚡ Fun fact **I know "I know nothing."**
 
